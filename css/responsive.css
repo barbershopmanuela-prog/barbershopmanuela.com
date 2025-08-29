@@ -1,0 +1,266 @@
+/* [Resolution: 1280px] */
+
+ @media screen and (max-width: 1280px) { 
+
+ 
+}
+
+/* [Resolution: 991px] */
+
+ @media screen and (max-width: 991px) { 
+
+    body .t41 {
+        padding: 60px 20px 60px 20px;
+    }
+
+    body .t42 {
+        padding: 60px 0px 60px 0px;
+    }
+
+    body .t46 {
+        padding: 0px 0px 100px 0px;
+    }
+
+    body .t55 {
+        column-gap: 20px;
+    }
+
+    body .t58 {
+        padding: 60px 0px 60px 0px;
+    }
+
+    body .t59 {
+        column-gap: 20px;
+    }
+
+    body .t60 {
+        padding: 0px 0px 0px 0px;
+    }
+
+    body .t73 {
+        overflow: hidden;
+    }
+
+    body .t77 {
+        display: grid;
+        row-gap: 0px;
+        column-gap: 0px;
+        grid-template-columns: 1fr 1fr;
+    }
+
+    body .t78 {
+        flex: none!important;
+        transition: all 0ms 0ms linear;
+    }
+
+    body .t78:hover {
+        flex: none!important;
+    }
+
+ 
+}
+
+/* [Resolution: 767px] */
+
+ @media screen and (max-width: 767px) { 
+
+    h2 {
+        font-size: 34px;
+    }
+
+    h1 {
+        font-size: 50px;
+    }
+
+    h3 {
+        font-size: 18px;
+    }
+
+    p {
+        font-size: 18px;
+    }
+
+    body .t37 {
+        height: 500px;
+    }
+
+    body .t39 {
+        height: 500px;
+    }
+
+    body .t41 {
+    }
+
+    body .t44 {
+    }
+
+    body .t46 {
+        padding: 0px 0px 50px 0px;
+    }
+
+    body .t55 {
+        margin: 100px 0px 0px 0px;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    body .t59 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    body .t61 {
+    }
+
+    body .t81 {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    body .t83 {
+    }
+
+    body .t87 {
+        justify-content: center;
+    }
+
+ 
+}
+
+/* [Resolution: 480px] */
+
+ @media screen and (max-width: 480px) { 
+
+    body .t33 {
+        margin: -177px 0px 0px 0px;
+    }
+
+    body .t34 {
+        font-size: 40px;
+    }
+
+    body .t40 {
+        font-size: 61px;
+    }
+
+    body .t41 {
+    }
+
+    body .t56 {
+        color: var(--Brand);
+        font-size: 21px;
+        text-align: center;
+        line-height: 2.5;
+    }
+
+    body .t57 {
+        font-size: 21px;
+        line-height: 2.5;
+    }
+
+    body .t58 {
+        font-size: 21px;
+        box-shadow:  0px 0px 15px 24px var(--Background-Primary);
+    }
+
+    body .t60 {
+        margin: 0px 0px 0px 0px;
+    }
+
+    body .t61 {
+    }
+
+    body .t68 {
+        color: var(--Brand);
+        font-size: 40px;
+        text-align: center;
+    }
+
+    body .t71 {
+        font-size: 28px;
+    }
+
+    body .t77 {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+
+    body .t81 {
+        background: var(--Background-Primary);
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    body .t83 {
+        line-height: 3.8;
+    }
+
+    body .t87 {
+        margin-top: 40px;
+    }
+
+ 
+}
+
+/* [Resolution: 320px] */
+
+ @media screen and (max-width: 320px) { 
+
+    body .t40 {
+        font-size: 34px;
+        font-weight: 800;
+        line-height: px;
+    }
+
+    body .t44 {
+        display: grid;
+        position: initial;
+        object-fit: contain;
+        align-items: stretch;
+    }
+
+    body .t45 {
+        display: block;
+        font-size: 23px;
+    }
+
+    body .t56 {
+        font-size: 14px;
+    }
+
+    body .t57 {
+        font-size: 14px;
+    }
+
+    body .t71 {
+        font-size: 20px;
+    }
+
+    body .t83 {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: space-around;
+        grid-template-columns: 1fr 1fr;
+    }
+
+    body .t84 {
+        flex: 0 1 auto;
+        order: 0;
+        display: block;
+        overflow: visible;
+        position: static;
+        font-size: 22px;
+        align-self: auto;
+        line-height: 3.8;
+        text-shadow: 0px 0px 5px rgba(0,0,0,0.25);
+        padding-bottom: 0px;
+        grid-template-columns: 1fr 1fr;
+    }
+
+    body .t85 {
+        padding-bottom: 0px;
+    }
+
+ 
+}
